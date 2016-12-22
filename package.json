@@ -1,0 +1,16 @@
+{
+  "name": "html5-tag-rules",
+  "version": "1.0.0",
+  "description": "Scrapes MDN for HTML5 tag rules",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erty Seidohl",
+  "license": "CC BY-SA",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "optimist": "^0.6.1",
+    "request": "^2.79.0"
+  }
+}
